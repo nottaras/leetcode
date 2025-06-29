@@ -3,12 +3,14 @@ package com.zadziarnouski.leetcode;
 import com.zadziarnouski.leetcode.structure.ListNode;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertFalse;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 class LinkedListCycleTest {
 
     @Test
-    void hasCycle_whenCycleExists_shouldReturnTrue() {
+    void shouldReturnTrue_whenCycleExists() {
+        // Given
         ListNode list = ListNode.createList(1, 2, 3, 4, 5);
         ListNode tail = list;
         while (tail.next != null) {
@@ -16,33 +18,41 @@ class LinkedListCycleTest {
         }
         tail.next = list.next;
 
+        // When & Then
         assertTrue(LinkedListCycle.hasCycle(list));
     }
 
     @Test
-    void hasCycle_whenNoCycle_shouldReturnFalse() {
+    void shouldReturnFalse_whenNoCycle() {
+        // Given
         ListNode list = ListNode.createList(1, 2, 3, 4, 5);
 
+        // When & Then
         assertFalse(LinkedListCycle.hasCycle(list));
     }
 
     @Test
-    void hasCycle_whenSingleElementNoCycle_shouldReturnFalse() {
+    void shouldReturnFalse_whenSingleElementWithoutCycle() {
+        // Given
         ListNode list = new ListNode(1);
 
+        // When & Then
         assertFalse(LinkedListCycle.hasCycle(list));
     }
 
     @Test
-    void hasCycle_whenSingleElementCycle_shouldReturnTrue() {
+    void shouldReturnTrue_whenSingleElementWithCycle() {
+        // Given
         ListNode list = new ListNode(1);
         list.next = list;
 
+        // When & Then
         assertTrue(LinkedListCycle.hasCycle(list));
     }
 
     @Test
-    void hasCycle_whenEmptyList_shouldReturnFalse() {
+    void shouldReturnFalse_whenListIsEmpty() {
+        // When & Then
         assertFalse(LinkedListCycle.hasCycle(null));
     }
 }
