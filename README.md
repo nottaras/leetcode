@@ -11,5 +11,6 @@
 - [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) – [`MyQueue.java`](src/main/java/com/zadziarnouski/leetcode/MyQueue.java)
 - [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) – [`LowestCommonAncestorOfABinarySearchTree.java`](src/main/java/com/zadziarnouski/leetcode/LowestCommonAncestorOfABinarySearchTree.java)
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) – [`ValidAnagram.java`](src/main/java/com/zadziarnouski/leetcode/ValidAnagram.java)
+- [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/) – [`FirstBadVersion.java`](src/main/java/com/zadziarnouski/leetcode/FirstBadVersion.java)
 - [704. Binary Search](https://leetcode.com/problems/binary-search/description/) – [`BinarySearch.java`](src/main/java/com/zadziarnouski/leetcode/BinarySearch.java)
 - [733. Flood Fill](https://leetcode.com/problems/flood-fill/description/) – [`FloodFill.java`](src/main/java/com/zadziarnouski/leetcode/FloodFill.java)
