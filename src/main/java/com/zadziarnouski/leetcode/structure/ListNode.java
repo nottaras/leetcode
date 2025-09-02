@@ -13,7 +13,7 @@ public class ListNode {
         this.val = val;
     }
 
-    public static ListNode createList(int... values) {
+    public static ListNode of(int... values) {
         if (values == null || values.length == 0) {
             return null;
         }

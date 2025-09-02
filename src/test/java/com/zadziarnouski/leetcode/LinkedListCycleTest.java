@@ -11,7 +11,7 @@ class LinkedListCycleTest {
     @Test
     void shouldReturnTrue_whenCycleExists() {
         // Given
-        ListNode list = ListNode.createList(1, 2, 3, 4, 5);
+        ListNode list = ListNode.of(1, 2, 3, 4, 5);
         ListNode tail = list;
         while (tail.next != null) {
             tail = tail.next;
@@ -25,7 +25,7 @@ class LinkedListCycleTest {
     @Test
     void shouldReturnFalse_whenNoCycle() {
         // Given
-        ListNode list = ListNode.createList(1, 2, 3, 4, 5);
+        ListNode list = ListNode.of(1, 2, 3, 4, 5);
 
         // When & Then
         assertFalse(LinkedListCycle.hasCycle(list));
