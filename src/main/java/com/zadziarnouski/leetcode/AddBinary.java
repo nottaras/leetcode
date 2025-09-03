@@ -18,6 +18,7 @@ class AddBinary {
             i--;
             j--;
         }
+
         return sb.reverse().toString();
     }
 }

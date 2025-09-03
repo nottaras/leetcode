@@ -17,18 +17,27 @@ class MyQueue {
     }
 
     int pop() {
-        if (outStack.empty()) while (!inStack.empty()) outStack.push(inStack.pop());
+        if (outStack.empty()) while (!inStack.empty()) {
+            outStack.push(inStack.pop());
+        }
+
         return outStack.pop();
     }
 
     int peek() {
-        if (outStack.empty()) while (!inStack.empty()) outStack.push(inStack.pop());
+        if (outStack.empty()) while (!inStack.empty()) {
+            outStack.push(inStack.pop());
+        }
+
         return outStack.peek();
 
     }
 
     boolean empty() {
-        if (outStack.empty()) while (!inStack.empty()) outStack.push(inStack.pop());
+        if (outStack.empty()) while (!inStack.empty()) {
+            outStack.push(inStack.pop());
+        }
+
         return outStack.empty();
     }
 }
