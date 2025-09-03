@@ -18,5 +18,6 @@
 - [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/) – [`FirstBadVersion.java`](src/main/java/com/zadziarnouski/leetcode/FirstBadVersion.java)
 - [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/) – [`RansomNote.java`](src/main/java/com/zadziarnouski/leetcode/RansomNote.java)
 - [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) – [`LongestPalindrome.java`](src/main/java/com/zadziarnouski/leetcode/LongestPalindrome.java)
+- [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) – [`DiameterOfBinaryTree.java`](src/main/java/com/zadziarnouski/leetcode/DiameterOfBinaryTree.java)
 - [704. Binary Search](https://leetcode.com/problems/binary-search/description/) – [`BinarySearch.java`](src/main/java/com/zadziarnouski/leetcode/BinarySearch.java)
 - [733. Flood Fill](https://leetcode.com/problems/flood-fill/description/) – [`FloodFill.java`](src/main/java/com/zadziarnouski/leetcode/FloodFill.java)
