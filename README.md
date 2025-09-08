@@ -11,6 +11,7 @@
 - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) – [`BestTimeToBuyAndSellStock.java`](src/main/java/com/zadziarnouski/leetcode/BestTimeToBuyAndSellStock.java)
 - [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) – [`ValidPalindrome.java`](src/main/java/com/zadziarnouski/leetcode/ValidPalindrome.java)
 - [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) – [`LinkedListCycle.java`](src/main/java/com/zadziarnouski/leetcode/LinkedListCycle.java)
+- [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/) - [`LRUCache.java`](src/main/java/com/zadziarnouski/leetcode/LRUCache.java)
 - [169. Majority Element](https://leetcode.com/problems/majority-element/description/) – [`MajorityElement.java`](src/main/java/com/zadziarnouski/leetcode/MajorityElement.java)
 - [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) – [`ReverseLinkedList.java`](src/main/java/com/zadziarnouski/leetcode/ReverseLinkedList.java)
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) – [`ContainsDuplicate.java`](src/main/java/com/zadziarnouski/leetcode/ContainsDuplicate.java) 
