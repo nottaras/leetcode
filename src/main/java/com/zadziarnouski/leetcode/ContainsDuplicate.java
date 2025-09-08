@@ -3,6 +3,7 @@ package com.zadziarnouski.leetcode;
 import java.util.HashSet;
 import java.util.Set;
 
+// TC: O(n), SC: O(n)
 class ContainsDuplicate {
 
     static boolean containsDuplicate(int[] nums) {
