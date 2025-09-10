@@ -11,6 +11,7 @@
 - [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) – [`BalancedBinaryTree.java`](src/main/java/com/zadziarnouski/leetcode/BalancedBinaryTree.java)
 - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) – [`BestTimeToBuyAndSellStock.java`](src/main/java/com/zadziarnouski/leetcode/BestTimeToBuyAndSellStock.java)
 - [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) – [`ValidPalindrome.java`](src/main/java/com/zadziarnouski/leetcode/ValidPalindrome.java)
+- [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) – [`LongestConsecutiveSequence.java`](src/main/java/com/zadziarnouski/leetcode/LongestConsecutiveSequence.java)
 - [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) – [`LinkedListCycle.java`](src/main/java/com/zadziarnouski/leetcode/LinkedListCycle.java)
 - [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/) - [`LRUCache.java`](src/main/java/com/zadziarnouski/leetcode/LRUCache.java)
 - [169. Majority Element](https://leetcode.com/problems/majority-element/description/) – [`MajorityElement.java`](src/main/java/com/zadziarnouski/leetcode/MajorityElement.java)
