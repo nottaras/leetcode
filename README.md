@@ -4,6 +4,7 @@
 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) – [`ValidParentheses.java`](src/main/java/com/zadziarnouski/leetcode/ValidParentheses.java)
 - [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) – [`MergeTwoSortedLists.java`](src/main/java/com/zadziarnouski/leetcode/MergeTwoSortedLists.java)
 - [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) – [`RemoveDuplicatesFromSortedArray.java`](src/main/java/com/zadziarnouski/leetcode/RemoveDuplicatesFromSortedArray.java)
+- [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) – [`ValidSudoku.java`](src/main/java/com/zadziarnouski/leetcode/ValidSudoku.java)
 - [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) – [`GroupAnagrams.java`](src/main/java/com/zadziarnouski/leetcode/GroupAnagrams.java)
 - [67. Add Binary](https://leetcode.com/problems/add-binary/description/) – [`AddBinary.java`](src/main/java/com/zadziarnouski/leetcode/AddBinary.java)
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) – [`ClimbingStairs.java`](src/main/java/com/zadziarnouski/leetcode/ClimbingStairs.java)
