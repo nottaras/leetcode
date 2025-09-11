@@ -1,5 +1,6 @@
 package com.zadziarnouski.leetcode;
 
+// TC: O(n), SC: O(1)
 class ContainerWithMostWater {
 
     static int maxArea(int[] height) {
