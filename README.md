@@ -12,6 +12,7 @@
 - [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) – [`GroupAnagrams.java`](src/main/java/com/zadziarnouski/leetcode/GroupAnagrams.java)
 - [67. Add Binary](https://leetcode.com/problems/add-binary/description/) – [`AddBinary.java`](src/main/java/com/zadziarnouski/leetcode/AddBinary.java)
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) – [`ClimbingStairs.java`](src/main/java/com/zadziarnouski/leetcode/ClimbingStairs.java)
+- [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) - [`LargestRectangleInHistogram.java`](src/main/java/com/zadziarnouski/leetcode/LargestRectangleInHistogram.java)
 - [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) – [`BalancedBinaryTree.java`](src/main/java/com/zadziarnouski/leetcode/BalancedBinaryTree.java)
 - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) – [`BestTimeToBuyAndSellStock.java`](src/main/java/com/zadziarnouski/leetcode/BestTimeToBuyAndSellStock.java)
 - [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) – [`ValidPalindrome.java`](src/main/java/com/zadziarnouski/leetcode/ValidPalindrome.java)
