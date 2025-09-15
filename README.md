@@ -12,6 +12,7 @@
 - [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) – [`GroupAnagrams.java`](src/main/java/com/zadziarnouski/leetcode/GroupAnagrams.java)
 - [67. Add Binary](https://leetcode.com/problems/add-binary/description/) – [`AddBinary.java`](src/main/java/com/zadziarnouski/leetcode/AddBinary.java)
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) – [`ClimbingStairs.java`](src/main/java/com/zadziarnouski/leetcode/ClimbingStairs.java)
+- [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) - [`Search2DMatrix.java`](src/main/java/com/zadziarnouski/leetcode/Search2DMatrix.java)
 - [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) - [`LargestRectangleInHistogram.java`](src/main/java/com/zadziarnouski/leetcode/LargestRectangleInHistogram.java)
 - [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) – [`BalancedBinaryTree.java`](src/main/java/com/zadziarnouski/leetcode/BalancedBinaryTree.java)
 - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) – [`BestTimeToBuyAndSellStock.java`](src/main/java/com/zadziarnouski/leetcode/BestTimeToBuyAndSellStock.java)
