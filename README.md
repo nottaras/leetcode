@@ -21,6 +21,7 @@
 - [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) – [`LinkedListCycle.java`](src/main/java/com/zadziarnouski/leetcode/LinkedListCycle.java)
 - [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/) - [`LRUCache.java`](src/main/java/com/zadziarnouski/leetcode/LRUCache.java)
 - [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) – [`EvaluateReversePolishNotation.java`](src/main/java/com/zadziarnouski/leetcode/EvaluateReversePolishNotation.java)
+- [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) - [`FindMinimumInRotatedSortedArray.java`](src/main/java/com/zadziarnouski/leetcode/FindMinimumInRotatedSortedArray.java)
 - [155. Min Stack](https://leetcode.com/problems/min-stack/description/) - [`MinStack.java`](src/main/java/com/zadziarnouski/leetcode/MinStack.java)
 - [167. Two Sum II - Input Array Is Sorted]() - [`TwoSumIIInputArrayIsSorted.java`](src/main/java/com/zadziarnouski/leetcode/TwoSumIIInputArrayIsSorted.java)
 - [169. Majority Element](https://leetcode.com/problems/majority-element/description/) – [`MajorityElement.java`](src/main/java/com/zadziarnouski/leetcode/MajorityElement.java)
