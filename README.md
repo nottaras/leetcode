@@ -41,6 +41,7 @@
 - [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) – [`LongestPalindrome.java`](src/main/java/com/zadziarnouski/leetcode/LongestPalindrome.java)
 - [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) - [`LongestRepeatingCharacterReplacement.java`](src/main/java/com/zadziarnouski/leetcode/LongestRepeatingCharacterReplacement.java)
 - [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) – [`DiameterOfBinaryTree.java`](src/main/java/com/zadziarnouski/leetcode/DiameterOfBinaryTree.java)
+- [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) - [`PermutationInString.java`](src/main/java/com/zadziarnouski/leetcode/PermutationInString.java)
 - [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) – [`MaximumAverageSubarrayI.java`](src/main/java/com/zadziarnouski/leetcode/MaximumAverageSubarrayI.java)
 - [704. Binary Search](https://leetcode.com/problems/binary-search/description/) – [`BinarySearch.java`](src/main/java/com/zadziarnouski/leetcode/BinarySearch.java)
 - [733. Flood Fill](https://leetcode.com/problems/flood-fill/description/) – [`FloodFill.java`](src/main/java/com/zadziarnouski/leetcode/FloodFill.java)
