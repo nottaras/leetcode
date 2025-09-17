@@ -2,6 +2,7 @@ package com.zadziarnouski.leetcode;
 
 import java.util.Arrays;
 
+// TC: O(n), SC: O(1)
 class PermutationInString {
 
     static boolean checkInclusion(String s1, String s2) {
