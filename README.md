@@ -41,6 +41,7 @@
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) – [`ValidAnagram.java`](src/main/java/com/zadziarnouski/leetcode/ValidAnagram.java)
 - [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/) – [`EncodeAndDecodeStrings.java`](src/main/java/com/zadziarnouski/leetcode/EncodeAndDecodeStrings.java)
 - [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/) – [`FirstBadVersion.java`](src/main/java/com/zadziarnouski/leetcode/FirstBadVersion.java)
+- [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) - [`FindTheDuplicateNumber.java`](src/main/java/com/zadziarnouski/leetcode/FindTheDuplicateNumber.java)
 - [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) – [`TopKFrequentElements.java`](src/main/java/com/zadziarnouski/leetcode/TopKFrequentElements.java)
 - [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/) – [`RansomNote.java`](src/main/java/com/zadziarnouski/leetcode/RansomNote.java)
 - [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) – [`LongestPalindrome.java`](src/main/java/com/zadziarnouski/leetcode/LongestPalindrome.java)
