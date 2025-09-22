@@ -19,6 +19,7 @@
 - [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) - [`Search2DMatrix.java`](src/main/java/com/zadziarnouski/leetcode/Search2DMatrix.java)
 - [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) - [`SortColors.java`](src/main/java/com/zadziarnouski/leetcode/SortColors.java)
 - [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) - [`LargestRectangleInHistogram.java`](src/main/java/com/zadziarnouski/leetcode/LargestRectangleInHistogram.java)
+- [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) - [`MaximumDepthOfBinaryTree.java`](src/main/java/com/zadziarnouski/leetcode/MaximumDepthOfBinaryTree.java)
 - [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) – [`BalancedBinaryTree.java`](src/main/java/com/zadziarnouski/leetcode/BalancedBinaryTree.java)
 - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) – [`BestTimeToBuyAndSellStock.java`](src/main/java/com/zadziarnouski/leetcode/BestTimeToBuyAndSellStock.java)
 - [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) – [`ValidPalindrome.java`](src/main/java/com/zadziarnouski/leetcode/ValidPalindrome.java)
