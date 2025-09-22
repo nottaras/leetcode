@@ -2,7 +2,7 @@ package com.zadziarnouski.leetcode;
 
 import com.zadziarnouski.leetcode.structure.TreeNode;
 
-// TC: O(n), SC: O(1)
+// TC: O(n), SC: O(n)
 class SameTree {
 
     static boolean isSameTree(TreeNode p, TreeNode q) {
