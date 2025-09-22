@@ -10,7 +10,7 @@ class MaximumDepthOfBinaryTreeTest {
     @Test
     void shouldReturnZeroForNullRoot() {
         // given
-        TreeNode root = TreeNode.createTree();
+        TreeNode root = TreeNode.of();
 
         // when
         int depth = MaximumDepthOfBinaryTree.maxDepth(root);
@@ -22,7 +22,7 @@ class MaximumDepthOfBinaryTreeTest {
     @Test
     void shouldReturnOneForSingleNode() {
         // given
-        TreeNode root = TreeNode.createTree(1);
+        TreeNode root = TreeNode.of(1);
 
         // when
         int depth = MaximumDepthOfBinaryTree.maxDepth(root);
@@ -34,7 +34,7 @@ class MaximumDepthOfBinaryTreeTest {
     @Test
     void shouldReturnCorrectDepthForBalancedTree() {
         // given
-        TreeNode root = TreeNode.createTree(1, 2, 3);
+        TreeNode root = TreeNode.of(1, 2, 3);
 
         // when
         int depth = MaximumDepthOfBinaryTree.maxDepth(root);
@@ -46,7 +46,7 @@ class MaximumDepthOfBinaryTreeTest {
     @Test
     void shouldReturnCorrectDepthForUnbalancedTree() {
         // given
-        TreeNode root = TreeNode.createTree(1, 2, null, 3, null, null, null, 4);
+        TreeNode root = TreeNode.of(1, 2, null, 3, null, null, null, 4);
 
         // when
         int depth = MaximumDepthOfBinaryTree.maxDepth(root);

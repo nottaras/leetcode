@@ -10,16 +10,16 @@ class BalancedBinaryTree {
             return true;
         }
 
-        return height(root) != -1;
+        return dfs(root) != -1;
     }
 
-    private static int height(TreeNode root) {
+    private static int dfs(TreeNode root) {
         if (root == null) {
             return 0;
         }
 
-        int leftHeight = height(root.left);
-        int rightHeight = height(root.right);
+        int leftHeight = dfs(root.left);
+        int rightHeight = dfs(root.right);
 
         if (leftHeight == -1 || rightHeight == -1) {
             return -1;

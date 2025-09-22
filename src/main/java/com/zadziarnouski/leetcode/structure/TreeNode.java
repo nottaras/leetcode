@@ -12,7 +12,7 @@ public class TreeNode {
         this.val = val;
     }
 
-    public static TreeNode createTree(Integer... values) {
+    public static TreeNode of(Integer... values) {
         return buildTreeFromArray(values, 0);
     }
 
