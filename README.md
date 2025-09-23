@@ -19,6 +19,7 @@
 - [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) - [`Search2DMatrix.java`](src/main/java/com/zadziarnouski/leetcode/Search2DMatrix.java)
 - [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) - [`SortColors.java`](src/main/java/com/zadziarnouski/leetcode/SortColors.java)
 - [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) - [`LargestRectangleInHistogram.java`](src/main/java/com/zadziarnouski/leetcode/LargestRectangleInHistogram.java)
+- [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) - [`ValidateBinarySearchTree.java`](src/main/java/com/zadziarnouski/leetcode/ValidateBinarySearchTree.java)
 - [100. Same Tree](https://leetcode.com/problems/same-tree/description/) - [`SameTree.java`](src/main/java/com/zadziarnouski/leetcode/SameTree.java)
 - [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) - [`BinaryTreeLevelOrderTraversal.java`](src/main/java/com/zadziarnouski/leetcode/BinaryTreeLevelOrderTraversal.java)
 - [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) - [`MaximumDepthOfBinaryTree.java`](src/main/java/com/zadziarnouski/leetcode/MaximumDepthOfBinaryTree.java)
