@@ -27,6 +27,37 @@ public class TreeNode {
         return node;
     }
 
+    public static TreeNode rightSkewed(int... values) {
+        if (values.length == 0) {
+            return null;
+        }
+
+        TreeNode root = new TreeNode(values[0]);
+        TreeNode current = root;
+
+        for (int i = 1; i < values.length; i++) {
+            current.right = new TreeNode(values[i]);
+            current = current.right;
+        }
+
+        return root;
+    }
+
+    public static TreeNode leftSkewed(int... values) {
+        if (values.length == 0) {
+            return null;
+        }
+        TreeNode root = new TreeNode(values[0]);
+        TreeNode current = root;
+
+        for (int i = 1; i < values.length; i++) {
+            current.left = new TreeNode(values[i]);
+            current = current.left;
+        }
+
+        return root;
+    }
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;

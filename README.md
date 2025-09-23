@@ -40,6 +40,7 @@
 - [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) – [`ReverseLinkedList.java`](src/main/java/com/zadziarnouski/leetcode/ReverseLinkedList.java)
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) – [`ContainsDuplicate.java`](src/main/java/com/zadziarnouski/leetcode/ContainsDuplicate.java) 
 - [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) – [`InvertBinaryTree.java`](src/main/java/com/zadziarnouski/leetcode/InvertBinaryTree.java)
+- [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) - [`KthSmallestElementInBST.java`](src/main/java/com/zadziarnouski/leetcode/KthSmallestElementInBST.java)
 - [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) – [`MyQueue.java`](src/main/java/com/zadziarnouski/leetcode/MyQueue.java)
 - [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) – [`LowestCommonAncestorOfABinarySearchTree.java`](src/main/java/com/zadziarnouski/leetcode/LowestCommonAncestorOfABinarySearchTree.java)
 - [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) – [`ProductOfArrayExceptSelf.java`](src/main/java/com/zadziarnouski/leetcode/ProductOfArrayExceptSelf.java)
