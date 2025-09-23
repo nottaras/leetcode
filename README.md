@@ -23,6 +23,7 @@
 - [100. Same Tree](https://leetcode.com/problems/same-tree/description/) - [`SameTree.java`](src/main/java/com/zadziarnouski/leetcode/SameTree.java)
 - [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) - [`BinaryTreeLevelOrderTraversal.java`](src/main/java/com/zadziarnouski/leetcode/BinaryTreeLevelOrderTraversal.java)
 - [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) - [`MaximumDepthOfBinaryTree.java`](src/main/java/com/zadziarnouski/leetcode/MaximumDepthOfBinaryTree.java)
+- [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) - [`ConstructBinaryTreeFromPreorderAndInorderTraversal.java`](src/main/java/com/zadziarnouski/leetcode/ConstructBinaryTreeFromPreorderAndInorderTraversal.java)
 - [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) – [`BalancedBinaryTree.java`](src/main/java/com/zadziarnouski/leetcode/BalancedBinaryTree.java)
 - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) – [`BestTimeToBuyAndSellStock.java`](src/main/java/com/zadziarnouski/leetcode/BestTimeToBuyAndSellStock.java)
 - [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) – [`ValidPalindrome.java`](src/main/java/com/zadziarnouski/leetcode/ValidPalindrome.java)
