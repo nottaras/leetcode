@@ -59,6 +59,7 @@
 - [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) - [`PermutationInString.java`](src/main/java/com/zadziarnouski/leetcode/PermutationInString.java)
 - [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) - [`SubtreeOfAnotherTree.java`](src/main/java/com/zadziarnouski/leetcode/SubtreeOfAnotherTree.java)
 - [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) – [`MaximumAverageSubarrayI.java`](src/main/java/com/zadziarnouski/leetcode/MaximumAverageSubarrayI.java)
+- [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) - [`KthLargest.java`](src/main/java/com/zadziarnouski/leetcode/KthLargest.java)
 - [704. Binary Search](https://leetcode.com/problems/binary-search/description/) – [`BinarySearch.java`](src/main/java/com/zadziarnouski/leetcode/BinarySearch.java)
 - [733. Flood Fill](https://leetcode.com/problems/flood-fill/description/) – [`FloodFill.java`](src/main/java/com/zadziarnouski/leetcode/FloodFill.java)
 - [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) – [`DailyTemperatures.java`](src/main/java/com/zadziarnouski/leetcode/DailyTemperatures.java)
