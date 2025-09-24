@@ -39,6 +39,7 @@
 - [169. Majority Element](https://leetcode.com/problems/majority-element/description/) – [`MajorityElement.java`](src/main/java/com/zadziarnouski/leetcode/MajorityElement.java)
 - [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) - [`BinaryTreeRightSideView.java`](src/main/java/com/zadziarnouski/leetcode/BinaryTreeRightSideView.java)
 - [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) – [`ReverseLinkedList.java`](src/main/java/com/zadziarnouski/leetcode/ReverseLinkedList.java)
+- [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) - [`Trie.java`](src/main/java/com/zadziarnouski/leetcode/Trie.java)
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) – [`ContainsDuplicate.java`](src/main/java/com/zadziarnouski/leetcode/ContainsDuplicate.java) 
 - [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) – [`InvertBinaryTree.java`](src/main/java/com/zadziarnouski/leetcode/InvertBinaryTree.java)
 - [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) - [`KthSmallestElementInBST.java`](src/main/java/com/zadziarnouski/leetcode/KthSmallestElementInBST.java)
