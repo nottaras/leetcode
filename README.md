@@ -59,6 +59,7 @@
 - [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) – [`DiameterOfBinaryTree.java`](src/main/java/com/zadziarnouski/leetcode/DiameterOfBinaryTree.java)
 - [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) - [`PermutationInString.java`](src/main/java/com/zadziarnouski/leetcode/PermutationInString.java)
 - [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) - [`SubtreeOfAnotherTree.java`](src/main/java/com/zadziarnouski/leetcode/SubtreeOfAnotherTree.java)
+- [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) - [TaskScheduler.java](src/main/java/com/zadziarnouski/leetcode/TaskScheduler.java)
 - [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) – [`MaximumAverageSubarrayI.java`](src/main/java/com/zadziarnouski/leetcode/MaximumAverageSubarrayI.java)
 - [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) - [`KthLargest.java`](src/main/java/com/zadziarnouski/leetcode/KthLargest.java)
 - [704. Binary Search](https://leetcode.com/problems/binary-search/description/) – [`BinarySearch.java`](src/main/java/com/zadziarnouski/leetcode/BinarySearch.java)
