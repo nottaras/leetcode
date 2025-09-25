@@ -2,6 +2,7 @@ package com.zadziarnouski.leetcode;
 
 import java.util.PriorityQueue;
 
+// TC: O(n log k), SC: O(k)
 class KClosestPointsToOrigin {
 
     static int[][] kClosest(int[][] points, int k) {
