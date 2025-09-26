@@ -59,6 +59,7 @@
 - [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/) – [`RansomNote.java`](src/main/java/com/zadziarnouski/leetcode/RansomNote.java)
 - [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/) – [`LongestPalindrome.java`](src/main/java/com/zadziarnouski/leetcode/LongestPalindrome.java)
 - [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) - [`LongestRepeatingCharacterReplacement.java`](src/main/java/com/zadziarnouski/leetcode/LongestRepeatingCharacterReplacement.java)
+- [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) - [`NonOverlappingIntervals.java`](src/main/java/com/zadziarnouski/leetcode/NonOverlappingIntervals.java)
 - [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) – [`DiameterOfBinaryTree.java`](src/main/java/com/zadziarnouski/leetcode/DiameterOfBinaryTree.java)
 - [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) - [`PermutationInString.java`](src/main/java/com/zadziarnouski/leetcode/PermutationInString.java)
 - [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) - [`SubtreeOfAnotherTree.java`](src/main/java/com/zadziarnouski/leetcode/SubtreeOfAnotherTree.java)
