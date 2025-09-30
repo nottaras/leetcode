@@ -33,6 +33,7 @@
 - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) – [`BestTimeToBuyAndSellStock.java`](src/main/java/com/zadziarnouski/leetcode/BestTimeToBuyAndSellStock.java)
 - [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) – [`ValidPalindrome.java`](src/main/java/com/zadziarnouski/leetcode/ValidPalindrome.java)
 - [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) – [`LongestConsecutiveSequence.java`](src/main/java/com/zadziarnouski/leetcode/LongestConsecutiveSequence.java)
+- [134. Gas Station](https://leetcode.com/problems/gas-station/description/) - [`GasStation.java`](src/main/java/com/zadziarnouski/leetcode/GasStation.java)
 - [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) - [`CopyListWithRandomPointer.java`](src/main/java/com/zadziarnouski/leetcode/CopyListWithRandomPointer.java)
 - [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) – [`LinkedListCycle.java`](src/main/java/com/zadziarnouski/leetcode/LinkedListCycle.java)
 - [143. Reorder List](https://leetcode.com/problems/reorder-list/description/) - [`ReorderList.java`](src/main/java/com/zadziarnouski/leetcode/ReorderList.java)
