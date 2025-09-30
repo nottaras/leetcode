@@ -13,6 +13,7 @@
 - [33. Search in Rotated Sorted Array]() - [`SearchInRotatedSortedArray.java`](src/main/java/com/zadziarnouski/leetcode/SearchInRotatedSortedArray.java)
 - [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) – [`ValidSudoku.java`](src/main/java/com/zadziarnouski/leetcode/ValidSudoku.java)
 - [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) - [`TrappingRainWater.java`](src/main/java/com/zadziarnouski/leetcode/TrappingRainWater.java)
+- [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) - [`JumpGameII.java`](src/main/java/com/zadziarnouski/leetcode/JumpGameII.java)
 - [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) – [`GroupAnagrams.java`](src/main/java/com/zadziarnouski/leetcode/GroupAnagrams.java)
 - [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) - [`MaximumSubarray.java`](src/main/java/com/zadziarnouski/leetcode/MaximumSubarray.java)
 - [55. Jump Game](https://leetcode.com/problems/jump-game/description/) - [`JumpGame.java`](src/main/java/com/zadziarnouski/leetcode/JumpGame.java)
