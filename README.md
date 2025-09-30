@@ -23,6 +23,7 @@
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) – [`ClimbingStairs.java`](src/main/java/com/zadziarnouski/leetcode/ClimbingStairs.java)
 - [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) - [`Search2DMatrix.java`](src/main/java/com/zadziarnouski/leetcode/Search2DMatrix.java)
 - [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) - [`SortColors.java`](src/main/java/com/zadziarnouski/leetcode/SortColors.java)
+- [78. Subsets](https://leetcode.com/problems/subsets/description/) - [`Subsets.java`](src/main/java/com/zadziarnouski/leetcode/Subsets.java)
 - [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) - [`LargestRectangleInHistogram.java`](src/main/java/com/zadziarnouski/leetcode/LargestRectangleInHistogram.java)
 - [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) - [`ValidateBinarySearchTree.java`](src/main/java/com/zadziarnouski/leetcode/ValidateBinarySearchTree.java)
 - [100. Same Tree](https://leetcode.com/problems/same-tree/description/) - [`SameTree.java`](src/main/java/com/zadziarnouski/leetcode/SameTree.java)
