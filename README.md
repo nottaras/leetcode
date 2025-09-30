@@ -15,6 +15,7 @@
 - [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) - [`TrappingRainWater.java`](src/main/java/com/zadziarnouski/leetcode/TrappingRainWater.java)
 - [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) – [`GroupAnagrams.java`](src/main/java/com/zadziarnouski/leetcode/GroupAnagrams.java)
 - [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) - [`MaximumSubarray.java`](src/main/java/com/zadziarnouski/leetcode/MaximumSubarray.java)
+- [55. Jump Game](https://leetcode.com/problems/jump-game/description/) - [`JumpGame.java`](src/main/java/com/zadziarnouski/leetcode/JumpGame.java)
 - [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) - [`MergeIntervals.java`](src/main/java/com/zadziarnouski/leetcode/MergeIntervals.java)
 - [57. Insert Interval](https://leetcode.com/problems/insert-interval/description/) - [`InsertInterval.java`](src/main/java/com/zadziarnouski/leetcode/InsertInterval.java)
 - [67. Add Binary](https://leetcode.com/problems/add-binary/description/) – [`AddBinary.java`](src/main/java/com/zadziarnouski/leetcode/AddBinary.java)
