@@ -51,6 +51,7 @@
 - [167. Two Sum II - Input Array Is Sorted]() - [`TwoSumIIInputArrayIsSorted.java`](src/main/java/com/zadziarnouski/leetcode/TwoSumIIInputArrayIsSorted.java)
 - [169. Majority Element](https://leetcode.com/problems/majority-element/description/) – [`MajorityElement.java`](src/main/java/com/zadziarnouski/leetcode/MajorityElement.java)
 - [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) - [`BinaryTreeRightSideView.java`](src/main/java/com/zadziarnouski/leetcode/BinaryTreeRightSideView.java)
+- [200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/) - [`NumberOfIslands.java`](src/main/java/com/zadziarnouski/leetcode/NumberOfIslands.java)
 - [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) – [`ReverseLinkedList.java`](src/main/java/com/zadziarnouski/leetcode/ReverseLinkedList.java)
 - [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) - [`Trie.java`](src/main/java/com/zadziarnouski/leetcode/Trie.java)
 - [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) - [`WordDictionary.java`](src/main/java/com/zadziarnouski/leetcode/WordDictionary.java)
