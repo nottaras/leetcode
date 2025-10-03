@@ -3,7 +3,7 @@ package com.zadziarnouski.leetcode;
 import com.zadziarnouski.leetcode.structure.TreeNode;
 
 import java.util.ArrayDeque;
-import java.util.Deque;
+import java.util.Queue;
 
 class MaximumDepthOfBinaryTree {
 
@@ -14,7 +14,7 @@ class MaximumDepthOfBinaryTree {
             return 0;
         }
 
-        Deque<TreeNode> queue = new ArrayDeque<>();
+        Queue<TreeNode> queue = new ArrayDeque<>();
         queue.offer(root);
         int depth = 0;
 

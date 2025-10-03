@@ -4,8 +4,8 @@ import com.zadziarnouski.leetcode.structure.TreeNode;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;
-import java.util.Deque;
 import java.util.List;
+import java.util.Queue;
 
 // TC: O(n), SC: O(n)
 class BinaryTreeLevelOrderTraversal {
@@ -16,7 +16,7 @@ class BinaryTreeLevelOrderTraversal {
             return List.of();
         }
 
-        Deque<TreeNode> queue = new ArrayDeque<>();
+        Queue<TreeNode> queue = new ArrayDeque<>();
         queue.offer(root);
 
         List<List<Integer>> result = new ArrayList<>();
