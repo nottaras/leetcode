@@ -52,6 +52,7 @@
 - [155. Min Stack](https://leetcode.com/problems/min-stack/description/) - [`MinStack.java`](src/main/java/com/zadziarnouski/leetcode/MinStack.java)
 - [167. Two Sum II - Input Array Is Sorted]() - [`TwoSumIIInputArrayIsSorted.java`](src/main/java/com/zadziarnouski/leetcode/TwoSumIIInputArrayIsSorted.java)
 - [169. Majority Element](https://leetcode.com/problems/majority-element/description/) – [`MajorityElement.java`](src/main/java/com/zadziarnouski/leetcode/MajorityElement.java)
+- [198. House Robber](https://leetcode.com/problems/house-robber/description/) - [`HouseRobber.java`](src/main/java/com/zadziarnouski/leetcode/HouseRobber.java)
 - [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) - [`BinaryTreeRightSideView.java`](src/main/java/com/zadziarnouski/leetcode/BinaryTreeRightSideView.java)
 - [200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/) - [`NumberOfIslands.java`](src/main/java/com/zadziarnouski/leetcode/NumberOfIslands.java)
 - [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) – [`ReverseLinkedList.java`](src/main/java/com/zadziarnouski/leetcode/ReverseLinkedList.java)
