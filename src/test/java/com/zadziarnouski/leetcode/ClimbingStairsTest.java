@@ -9,54 +9,72 @@ class ClimbingStairsTest {
     @Test
     void shouldReturn1_whenNIs1() {
         // Given
-        ClimbingStairs solver = new ClimbingStairs();
+        int n = 1;
 
-        // When & Then
-        assertEquals(1, solver.climbStairs(1));
+        // When
+        int result = ClimbingStairs.climbStairs(n);
+
+        // Then
+        assertEquals(1, result);
     }
 
     @Test
     void shouldReturn2_whenNIs2() {
         // Given
-        ClimbingStairs solver = new ClimbingStairs();
+        int n = 2;
 
-        // When & Then
-        assertEquals(2, solver.climbStairs(2));
+        // When
+        int result = ClimbingStairs.climbStairs(n);
+
+        // Then
+        assertEquals(2, result);
     }
 
     @Test
     void shouldReturn3_whenNIs3() {
         // Given
-        ClimbingStairs solver = new ClimbingStairs();
+        int n = 3;
 
-        // When & Then
-        assertEquals(3, solver.climbStairs(3));
+        // When
+        int result = ClimbingStairs.climbStairs(n);
+
+        // Then
+        assertEquals(3, result);
     }
 
     @Test
     void shouldReturn5_whenNIs4() {
         // Given
-        ClimbingStairs solver = new ClimbingStairs();
+        int n = 4;
 
-        // When & Then
-        assertEquals(5, solver.climbStairs(4));
+        // When
+        int result = ClimbingStairs.climbStairs(n);
+
+        // Then
+        assertEquals(5, result);
     }
 
     @Test
     void shouldReturn8_whenNIs5() {
         // Given
-        ClimbingStairs solver = new ClimbingStairs();
+        int n = 5;
 
-        // When & Then
-        assertEquals(8, solver.climbStairs(5));
+        // When
+        int result = ClimbingStairs.climbStairs(n);
+
+        // Then
+        assertEquals(8, result);
     }
 
     @Test
     void shouldReturn1836311903_whenNIs45() {
         // Given
-        ClimbingStairs solver = new ClimbingStairs();
+        int n = 45;
 
-        // When & Then
-        assertEquals(1836311903, solver.climbStairs(45));
+        // When
+        int result = ClimbingStairs.climbStairs(n);
+
+        // Then
+        assertEquals(1836311903, result);
     }
 }
