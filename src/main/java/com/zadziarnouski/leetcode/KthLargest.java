@@ -1,9 +1,10 @@
 package com.zadziarnouski.leetcode;
 
 import java.util.PriorityQueue;
+import java.util.Queue;
 
 class KthLargest {
-    PriorityQueue<Integer> pq;
+    Queue<Integer> pq;
     int k;
 
     public KthLargest(int k, int[] nums) {

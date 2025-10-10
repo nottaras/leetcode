@@ -2,6 +2,7 @@ package com.zadziarnouski.leetcode;
 
 import java.util.ArrayDeque;
 
+//TC: O(n), SC: O(n)
 class LargestRectangleInHistogram {
 
     static int largestRectangleArea(int[] heights) {

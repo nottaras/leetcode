@@ -15,8 +15,10 @@ class ValidAnagram {
             counts[t.charAt(i) - 'a']--;
         }
 
-        for (int count : counts) if (count != 0) {
-            return false;
+        for (int count : counts) {
+            if (count != 0) {
+                return false;
+            }
         }
         return true;
     }

@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.PriorityQueue;
+import java.util.Queue;
 
 // TC: O(n), SC: O(n)
 class TaskScheduler {
@@ -14,7 +15,7 @@ class TaskScheduler {
             freq[task - 'A']++;
         }
 
-        PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Collections.reverseOrder());
+        Queue<Integer> maxHeap = new PriorityQueue<>(Collections.reverseOrder());
         for (int f : freq) {
             if (f > 0) {
                 maxHeap.offer(f);

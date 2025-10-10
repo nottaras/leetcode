@@ -8,9 +8,9 @@ class ValidSudoku {
 
     @SuppressWarnings("unchecked")
     static boolean isValidSudoku(char[][] board) {
-        Set<Character>[] rows = (Set<Character>[]) new HashSet[9];
-        Set<Character>[] cols = (Set<Character>[]) new HashSet[9];
-        Set<Character>[] boxes = (Set<Character>[]) new HashSet[9];
+        Set<Character>[] rows = new HashSet[9];
+        Set<Character>[] cols = new HashSet[9];
+        Set<Character>[] boxes = new HashSet[9];
 
         for (int i = 0; i < 9; i++) {
             rows[i] = new HashSet<>();

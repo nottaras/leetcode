@@ -3,6 +3,7 @@ package com.zadziarnouski.leetcode;
 import java.util.ArrayDeque;
 import java.util.Deque;
 
+//TC: O(n) SC: O(n)
 class DailyTemperatures {
 
     static int[] dailyTemperatures(int[] temperatures) {

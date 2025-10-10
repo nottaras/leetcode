@@ -3,6 +3,7 @@ package com.zadziarnouski.leetcode;
 import java.util.ArrayDeque;
 import java.util.Arrays;
 
+// TC: O(n * log n), SC: O(n)
 class CarFleet {
 
     static int carFleet(int target, int[] position, int[] speed) {

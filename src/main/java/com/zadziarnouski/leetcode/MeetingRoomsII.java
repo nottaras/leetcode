@@ -5,6 +5,7 @@ import com.zadziarnouski.leetcode.structure.Interval;
 import java.util.Comparator;
 import java.util.List;
 import java.util.PriorityQueue;
+import java.util.Queue;
 
 // TC: O(n * log n), SC: O(n)
 class MeetingRoomsII {
@@ -16,7 +17,7 @@ class MeetingRoomsII {
 
         intervals.sort(Comparator.comparingInt(a -> a.start));
 
-        PriorityQueue<Integer> minHeap = new PriorityQueue<>();
+        Queue<Integer> minHeap = new PriorityQueue<>();
 
         minHeap.offer(intervals.getFirst().end);
 

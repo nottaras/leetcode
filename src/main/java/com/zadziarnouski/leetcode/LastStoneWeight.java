@@ -2,6 +2,7 @@ package com.zadziarnouski.leetcode;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;
+import java.util.Queue;
 
 // TC: O(n * log(n)), SC: O(n)
 class LastStoneWeight {
@@ -14,7 +15,7 @@ class LastStoneWeight {
             return stones[0];
         }
 
-        PriorityQueue<Integer> mh = new PriorityQueue<>(Comparator.reverseOrder());
+        Queue<Integer> mh = new PriorityQueue<>(Comparator.reverseOrder());
 
         for (int stone : stones) {
             mh.offer(stone);
