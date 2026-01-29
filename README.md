@@ -11,6 +11,7 @@
 - [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) – [`MergeTwoSortedLists.java`](src/main/java/com/zadziarnouski/leetcode/MergeTwoSortedLists.java)
 - [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) - [`GenerateParentheses.java`](src/main/java/com/zadziarnouski/leetcode/GenerateParentheses.java)
 - [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) – [`RemoveDuplicatesFromSortedArray.java`](src/main/java/com/zadziarnouski/leetcode/RemoveDuplicatesFromSortedArray.java)
+- [27. Remove Element](https://leetcode.com/problems/remove-element/description/) – [`RemoveElement.java`](src/main/java/com/zadziarnouski/leetcode/RemoveElement.java)
 - [33. Search in Rotated Sorted Array]() - [`SearchInRotatedSortedArray.java`](src/main/java/com/zadziarnouski/leetcode/SearchInRotatedSortedArray.java)
 - [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) – [`ValidSudoku.java`](src/main/java/com/zadziarnouski/leetcode/ValidSudoku.java)
 - [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/) - [`CombinationSum.java`](src/main/java/com/zadziarnouski/leetcode/CombinationSum.java)
