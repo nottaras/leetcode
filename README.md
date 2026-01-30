@@ -102,5 +102,6 @@
 - [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/) - [`RottingOranges.java`](src/main/java/com/zadziarnouski/leetcode/RottingOranges.java)
 - [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/) - [`LastStoneWeight.java`](src/main/java/com/zadziarnouski/leetcode/LastStoneWeight.java)
 - [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/) - [`CountGoodNodesInBinaryTree.java`](src/main/java/com/zadziarnouski/leetcode/CountGoodNodesInBinaryTree.java)
+- [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/) – [`ShuffleTheArray.java`](src/main/java/com/zadziarnouski/leetcode/ShuffleTheArray.java)
 - [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/) – [`RunningSumOf1DArray.java`](src/main/java/com/zadziarnouski/leetcode/RunningSumOf1DArray.java)
 - [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/) – [`ConcatenationOfArray.java`](src/main/java/com/zadziarnouski/leetcode/ConcatenationOfArray.java)
