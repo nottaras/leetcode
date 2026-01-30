@@ -89,6 +89,7 @@
 - [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) - [TaskScheduler.java](src/main/java/com/zadziarnouski/leetcode/TaskScheduler.java)
 - [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) – [`MaximumAverageSubarrayI.java`](src/main/java/com/zadziarnouski/leetcode/MaximumAverageSubarrayI.java)
 - [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) - [`PalindromicSubstrings.java`](src/main/java/com/zadziarnouski/leetcode/PalindromicSubstrings.java)
+- [682. Baseball Game](https://leetcode.com/problems/baseball-game/description/) – [`BaseballGame.java`](src/main/java/com/zadziarnouski/leetcode/BaseballGame.java)
 - [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) - [`MaxAreaOfIsland.java`](src/main/java/com/zadziarnouski/leetcode/MaxAreaOfIsland.java)
 - [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) - [`KthLargest.java`](src/main/java/com/zadziarnouski/leetcode/KthLargest.java)
 - [704. Binary Search](https://leetcode.com/problems/binary-search/description/) – [`BinarySearch.java`](src/main/java/com/zadziarnouski/leetcode/BinarySearch.java)
