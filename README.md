@@ -73,6 +73,7 @@
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) – [`ValidAnagram.java`](src/main/java/com/zadziarnouski/leetcode/ValidAnagram.java)
 - [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) - [`MeetingRooms.java`](src/main/java/com/zadziarnouski/leetcode/MeetingRooms.java)
 - [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/) - [`MeetingRoomsII.java`](src/main/java/com/zadziarnouski/leetcode/MeetingRoomsII.java)
+- [268. Missing Number](https://leetcode.com/problems/missing-number/description/) – [`MissingNumber.java`](src/main/java/com/zadziarnouski/leetcode/MissingNumber.java)
 - [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/) – [`EncodeAndDecodeStrings.java`](src/main/java/com/zadziarnouski/leetcode/EncodeAndDecodeStrings.java)
 - [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/) – [`FirstBadVersion.java`](src/main/java/com/zadziarnouski/leetcode/FirstBadVersion.java)
 - [286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) - [`IslandsAndTreasure.java`](src/main/java/com/zadziarnouski/leetcode/IslandsAndTreasure.java)
