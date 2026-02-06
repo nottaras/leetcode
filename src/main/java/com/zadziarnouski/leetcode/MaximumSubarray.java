@@ -5,13 +5,13 @@ class MaximumSubarray {
 
     static int maxSubArray(int[] nums) {
         int maxSum = nums[0];
-        int curSum = 0;
+        int curSum = nums[0];
 
-        for (int n : nums) {
-            curSum = Math.max(curSum, 0);
-            curSum += n;
+        for (int i = 1; i < nums.length; i++) {
+            curSum = Math.max(nums[i], curSum + nums[i]);
             maxSum = Math.max(maxSum, curSum);
         }
+
         return maxSum;
     }
 }
