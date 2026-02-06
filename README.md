@@ -76,6 +76,7 @@
 - [268. Missing Number](https://leetcode.com/problems/missing-number/description/) – [`MissingNumber.java`](src/main/java/com/zadziarnouski/leetcode/MissingNumber.java)
 - [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/) – [`EncodeAndDecodeStrings.java`](src/main/java/com/zadziarnouski/leetcode/EncodeAndDecodeStrings.java)
 - [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/) – [`FirstBadVersion.java`](src/main/java/com/zadziarnouski/leetcode/FirstBadVersion.java)
+- [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) – [`MoveZeroes.java`](src/main/java/com/zadziarnouski/leetcode/MoveZeroes.java)
 - [286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) - [`IslandsAndTreasure.java`](src/main/java/com/zadziarnouski/leetcode/IslandsAndTreasure.java)
 - [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) - [`FindTheDuplicateNumber.java`](src/main/java/com/zadziarnouski/leetcode/FindTheDuplicateNumber.java)
 - [344. Reverse String](https://leetcode.com/problems/reverse-string/description/) – [`ReverseString.java`](src/main/java/com/zadziarnouski/leetcode/ReverseString.java)
