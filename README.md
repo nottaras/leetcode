@@ -105,6 +105,7 @@
 - [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) - [`KokoEatingBananas.java`](src/main/java/com/zadziarnouski/leetcode/KokoEatingBananas.java)
 - [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) – [`MiddleOfTheLinkedList.java`](src/main/java/com/zadziarnouski/leetcode/MiddleOfTheLinkedList.java)
 - [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) - [`KClosestPointsToOrigin.java`](src/main/java/com/zadziarnouski/leetcode/KClosestPointsToOrigin.java)
+- [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) – [`SquaresOfSortedArray.java`](src/main/java/com/zadziarnouski/leetcode/SquaresOfSortedArray.java)
 - [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/) - [`RottingOranges.java`](src/main/java/com/zadziarnouski/leetcode/RottingOranges.java)
 - [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/description/) - [`LastStoneWeight.java`](src/main/java/com/zadziarnouski/leetcode/LastStoneWeight.java)
 - [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/) - [`CountGoodNodesInBinaryTree.java`](src/main/java/com/zadziarnouski/leetcode/CountGoodNodesInBinaryTree.java)
